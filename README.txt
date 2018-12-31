@@ -6,3 +6,5 @@ add by B
 confuse
 
 add from master
+
+add from develop
