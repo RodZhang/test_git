@@ -22,6 +22,7 @@ change from server
 
 charge from master
 
+add in github
 hehe add on master
 
-add in github master github
+add in github master develop github
